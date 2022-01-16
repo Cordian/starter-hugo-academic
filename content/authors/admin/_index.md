@@ -40,7 +40,7 @@ education:
     - course: Dr. phil nat.
       institution: "Goethe University Frankfurt "
       year: 2011
-    - course: Mathematics for Economy (Dipl. math oec)
+    - course: Mathematical economics
       institution: Ulm University
       year: 2006
     - course: "Master 2 en mathématiques "
