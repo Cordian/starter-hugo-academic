@@ -4,9 +4,10 @@ avatar_filename: cordianriener.jpg
 bio: "My research interests include real algebraic geometry, optimization,
   computational complexity, and  computer algebra "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Real algebraic geometry
+  - Optimization
+  - Computational complexity
+  - Computer algebra
 social:
   - icon: envelope
     icon_pack: fas
