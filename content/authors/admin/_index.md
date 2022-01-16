@@ -24,8 +24,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: UiT The Arctic University of Norway
+    url: https://uit.no/enhet/ims
+  - name: " Lie-Størmer Center "
+    url: https://uit.no/research/lsc
 education:
   courses:
     - course: Habilitation in Mathematics
