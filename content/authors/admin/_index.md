@@ -37,7 +37,7 @@ education:
     - course: Magister Artium (Philosophy)
       institution: "Goethe University Frankfurt "
       year: 2013
-    - course: Dr. phil nat.
+    - course: Doctor philosophiae naturalis
       institution: "Goethe University Frankfurt "
       year: 2011
     - course: Mathematical economics
