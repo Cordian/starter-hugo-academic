@@ -1,8 +1,8 @@
 ---
 role: Professor of Mathematics
 avatar_filename: cordianriener.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My research interests include real algebraic geometry, optimization,
+  computational complexity, and  computer algebra "
 interests:
   - Artificial Intelligence
   - Computational Linguistics
