@@ -43,7 +43,7 @@ education:
     - course: Mathematical economics
       institution: Ulm University
       year: 2006
-    - course: "Master 2 en mathématiques "
+    - course: Master 2 en mathématiques
       institution: Université de Bordeaux
       year: 2005
 superuser: true
