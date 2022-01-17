@@ -2,7 +2,7 @@
 widget: pages
 widget_id: test
 weight: 90
-title: Recent Publications
+title: Publications
 subtitle: ""
 content:
   filters:
@@ -21,7 +21,7 @@ content:
 headless: true
 design:
   view: citation
-  columns: "1"
+  columns: "2"
 ---
 
 {{% callout note %}}
