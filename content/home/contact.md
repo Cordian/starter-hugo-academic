@@ -4,7 +4,7 @@ widget_id: contact
 headless: true
 weight: 130
 title: Contact
-active: false
+active: true
 design:
   columns: "2"
   background:
