@@ -51,10 +51,10 @@ highlight_name: true
 title: Cordian Riener
 email: cordian.riener@uit.no
 ---
-I am a  professor of mathematics at UiT The Arctic University of Norway. I am currently also acting as Pro Dean for PhD education at the Faculty of Science and Technology as well  the group leader of the [Algebra group](https://uit.no/research/algebra). I am also one of the initiators of the [Lie-Størmer Center](https://uit.no/research/lsc) for Fundamental Structures in Computational and Pure Mathematics. 
+I am a  professor of mathematics at UiT The Arctic University of Norway. I am currently also acting as Pro Dean for PhD education at the Faculty of Science and Technology. 
 
-My  research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research interests include real algebraic geometry, optimization, computational complexity, and  computer algebra. I am leading the  [Algebra group](https://uit.no/research/algebra) and I am also one of the initiators of the [Lie-Størmer Center](https://uit.no/research/lsc) for Fundamental Structures in Computational and Pure Mathematics. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
