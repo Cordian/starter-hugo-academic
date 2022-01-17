@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:cordian.riener *at* uit.no
   - icon: twitter
     icon_pack: ai
     link: https://twitter.com/cordian1723
