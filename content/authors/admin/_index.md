@@ -1,6 +1,6 @@
 ---
 role: Professor of Mathematics
-avatar_filename: cordianriener.jpg
+avatar_filename: avatar.png
 bio: "My research interests include real algebraic geometry, optimization,
   computational complexity, and  computer algebra "
 interests:
