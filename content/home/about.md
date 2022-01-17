@@ -3,7 +3,7 @@ widget: about
 headless: true
 weight: 20
 title: Biography
-active: true
+active: false
 author: admin
 widget_id: test
 design:
@@ -13,5 +13,5 @@ design:
     gradient_end: "#cdf0a3"
     text_color_light: true
     image: cc8ba07a-cb81-464d-a6e1-0ee2ec9f924f_1_201_a.jpeg
-    image_darken: 0.4
+    image_darken: 0
 ---
