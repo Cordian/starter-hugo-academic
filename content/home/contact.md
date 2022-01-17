@@ -1,6 +1,6 @@
 ---
 widget: contact
-widget_id: contact
+widget_id: contact-1
 headless: true
 weight: 130
 title: Contact
